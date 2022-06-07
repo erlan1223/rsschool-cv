@@ -12,7 +12,11 @@ My goal is to become junior front-end developer
 * JS basics
 
 ## Code
-
+``` 
+function multiply(a, b) {
+  return a * b;
+} 
+```
 ## Work experience
 Nothing yet
 
